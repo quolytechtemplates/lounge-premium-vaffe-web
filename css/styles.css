@@ -2055,7 +2055,7 @@ img,
     flex-flow      : row wrap;
     justify-content: center;
     align-items    : center;
-    background     : var(--color-preloader-bg);
+    background     : #F7C6D0;
     z-index        : 500;
     height         : 100vh;
     width          : 100%;
