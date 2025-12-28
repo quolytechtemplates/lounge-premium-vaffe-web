@@ -3022,6 +3022,7 @@ td:last-child {
 .section-header .text-display-title {
     margin-top: 0;
     font-size : clamp(var(--text-display), var(--text-display) - 1rem + 2vw, var(--text-huge));
+    color: #635656;
 }
 
 .section-header::before {
